@@ -21,7 +21,7 @@ I'm **seoyeon choi**
 ---
 
 ### 📘 Studying
-- Java, Spring, React 
+- Java, Spring, React, HTML/CSS, REST API, JPA, Docker
 
 ---
 
