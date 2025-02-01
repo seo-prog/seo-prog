@@ -6,7 +6,7 @@ I'm **seoyeon choi**
 ---
 
 ### 🧑‍💻 Introduction
-안녕하세요! ~!asgadgkladngd
+안녕하세요! 풀스택 개발자를 꿈꾸는 최서연입니다.
 
 ---
 
@@ -23,8 +23,7 @@ I'm **seoyeon choi**
 ### 📘 Studying
 - Java, Spring, React, HTML/CSS, REST API, JPA, Docker
 
+- github, notion
+
 ---
-
-### 🧩 Problem Solving
-
 
