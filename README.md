@@ -17,13 +17,12 @@ I'm **seoyeon choi**
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-CC6699?style=flat-square&logo=sass&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-007396?style=flat-square&logo=java&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
 ### 📘 Studying
-- Java, Spring, React, HTML/CSS, REST API, JPA, Docker
-
-- github, notion
-
+-  REST API, JPA, Docker, Jenkins
 ---
 
